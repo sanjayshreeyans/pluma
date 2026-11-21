@@ -1,0 +1,19 @@
+# environments and caches
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.claude/
+.impeccable/
+
+# third-party code and weights (Depth Pro 2 weights are research-only; DA3 weights live in Ariadne)
+third_party/
+models/
+
+# re-downloadable source data
+data/airdata/*.zip
+data/dem_tiles/
+
+# raw/duplicate captures (encoded videos and site/frames are kept)
+out/video_handoff/site_capture/frames/
+out/video_handoff/frames/

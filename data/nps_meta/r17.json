@@ -1,0 +1,6862 @@
+{
+  "internal_result_terms": [
+    1,
+    9,
+    5,
+    2,
+    3
+  ],
+  "CacheResults": false,
+  "CacheFilterCounts": false,
+  "DisplayAttribute": "",
+  "Page": 1,
+  "PageSize": 300,
+  "SearchType": "AirWebCams",
+  "Branding": "AIRWEBCAMS",
+  "Workflow": "DEFAULT",
+  "SearchID": "320a52ce-fc28-4821-b4b8-6d5e6a8e19f6",
+  "IsUserQuery": false,
+  "Save": false,
+  "MergeGroups": false,
+  "Operand": {
+    "LeftOperand": {
+      "MatchType": "Exact",
+      "Term": "LocationCode",
+      "Attribute": "grsm"
+    },
+    "RightOperand": {
+      "CompareType": "=",
+      "Term": "ImageCreateDate",
+      "Attribute": "11/17/2016"
+    },
+    "Operator": "AND"
+  },
+  "ActionFilter": "Search",
+  "StatusFilter": "Active",
+  "SortTerms": [
+    {
+      "Term": "CreateDate",
+      "Ascending": true
+    }
+  ],
+  "ResultTerms": [
+    "ImageCreateDate",
+    "CustomTextFields",
+    "CustomNumberFields",
+    "AdditionalMetadata"
+  ],
+  "UnfilteredCount": 92,
+  "ResultCount": 92,
+  "Results": [
+    {
+      "ItemNumber": 1,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 12:00 AM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "72571c15-3f95-439f-8fda-2dbecc920042",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 13.15029
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 150.2706
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1870078
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.194446
+          },
+          {
+            "Name": "Ozone",
+            "Value": 51.5772
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 8.40094
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 41.39869
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3768055
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.3918711
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 79.39365
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 131.6717
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.142915
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 1.741803
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 12:00:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 2,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 12:15 AM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "c76f81ef-76cf-4834-8174-d8a94c728808",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 13.15029
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 150.2706
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1870078
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.194446
+          },
+          {
+            "Name": "Ozone",
+            "Value": 51.5772
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 8.40094
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 41.39869
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3768055
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.3918711
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 79.39365
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 131.6717
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.142915
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 1.741803
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 12:15:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 3,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 12:30 AM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "7246c664-fe1b-49ca-9195-27d79d4935cb",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 13.15029
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 150.2706
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1870078
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.194446
+          },
+          {
+            "Name": "Ozone",
+            "Value": 51.5772
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 8.40094
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 41.39869
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3768055
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.3918711
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 79.39365
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 131.6717
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.142915
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 1.741803
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 12:30:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 4,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 12:45 AM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "b50830bd-ca19-456b-afed-911375e0f5c0",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 13.15029
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 150.2706
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1870078
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.194446
+          },
+          {
+            "Name": "Ozone",
+            "Value": 51.5772
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 8.40094
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 41.39869
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3768055
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.3918711
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 79.39365
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 131.6717
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.142915
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 1.741803
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 12:45:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 5,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 1:00 AM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "8e2952e7-ac16-4c37-816d-a11f3ec5d25f",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 13.3865
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 148.31
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.2065429
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.114503
+          },
+          {
+            "Name": "Ozone",
+            "Value": 50.77731
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 9.177305
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 42.15412
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3836357
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4960083
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 85.04139
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 131.3565
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.082035
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 1.639344
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 01:00:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 6,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 1:15 AM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "a9ee5c6c-29e9-477b-8325-abb80cb35825",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 13.3865
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 148.31
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.2065429
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.114503
+          },
+          {
+            "Name": "Ozone",
+            "Value": 50.77731
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 9.177305
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 42.15412
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3836357
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4960083
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 85.04139
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 131.3565
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.082035
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 1.639344
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 01:15:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 7,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 1:30 AM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "d7f96131-9b68-4211-80af-ee5a66d70620",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 13.3865
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 148.31
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.2065429
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.114503
+          },
+          {
+            "Name": "Ozone",
+            "Value": 50.77731
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 9.177305
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 42.15412
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3836357
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4960083
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 85.04139
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 131.3565
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.082035
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 1.639344
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 01:30:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 8,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 1:45 AM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "919ce2cc-364e-46b0-977c-d5604a8f8e60",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 13.3865
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 148.31
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.2065429
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.114503
+          },
+          {
+            "Name": "Ozone",
+            "Value": 50.77731
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 9.177305
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 42.15412
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3836357
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4960083
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 85.04139
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 131.3565
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.082035
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 1.639344
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 01:45:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 9,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 2:00 AM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "d6bf003b-a3e1-432b-aa98-74964fdc7075",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 13.56867
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 155.3868
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.2003424
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.541885
+          },
+          {
+            "Name": "Ozone",
+            "Value": 50.36619
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 13.1443
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 46.01414
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3842382
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.6988403
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 97.08747
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 131.4637
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 0.8999144
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 1.639344
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 02:00:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 10,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 2:15 AM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "bf5cef8c-c667-41aa-b5cd-e6750a2428a6",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 13.56867
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 155.3868
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.2003424
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.541885
+          },
+          {
+            "Name": "Ozone",
+            "Value": 50.36619
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 13.1443
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 46.01414
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3842382
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.6988403
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 97.08747
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 131.4637
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 0.8999144
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 1.639344
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 02:15:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 11,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 2:30 AM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "0e50e149-15f2-4fe1-8cee-b01f71326815",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 13.56867
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 155.3868
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.2003424
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.541885
+          },
+          {
+            "Name": "Ozone",
+            "Value": 50.36619
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 13.1443
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 46.01414
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3842382
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.6988403
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 97.08747
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 131.4637
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 0.8999144
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 1.639344
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 02:30:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 12,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 2:45 AM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "1c5579e3-37fc-49bc-a5eb-4a3389309a79",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 13.56867
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 155.3868
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.2003424
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.541885
+          },
+          {
+            "Name": "Ozone",
+            "Value": 50.36619
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 13.1443
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 46.01414
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3842382
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.6988403
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 97.08747
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 131.4637
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 0.8999144
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 1.639344
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 02:45:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 13,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 3:15 AM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "945becd4-8758-4dc5-9d85-da8d30b03048",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 13.75368
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 156.936
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1988747
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.769259
+          },
+          {
+            "Name": "Ozone",
+            "Value": 49.64873
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 7.39648
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 47.25943
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3909073
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.7343718
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 100.5042
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 144.9597
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.346474
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 2.04918
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 03:15:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 14,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 3:30 AM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "1285638d-242b-4065-afa0-8a08a0bbbc9c",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 13.75368
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 156.936
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1988747
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.769259
+          },
+          {
+            "Name": "Ozone",
+            "Value": 49.64873
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 7.39648
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 47.25943
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3909073
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.7343718
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 100.5042
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 144.9597
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.346474
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 2.04918
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 03:30:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 15,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 4:00 AM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "fb8b343a-7c55-4ae7-add6-633579f1f075",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 13.83459
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 155.5526
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.2051382
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.765835
+          },
+          {
+            "Name": "Ozone",
+            "Value": 49.37136
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 5.653614
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 46.20623
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3873579
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.7195969
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 98.38823
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 172.2966
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.05401
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 2.151639
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 04:00:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 16,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 4:15 AM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "50f2d6a7-9a0f-4240-9e5a-4cc2e79b7592",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 13.83459
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 155.5526
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.2051382
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.765835
+          },
+          {
+            "Name": "Ozone",
+            "Value": 49.37136
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 5.653614
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 46.20623
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3873579
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.7195969
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 98.38823
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 172.2966
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.05401
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 2.151639
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 04:15:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 17,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 4:30 AM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "5bc19115-b91a-4a32-a3ab-a636e71b1b30",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 13.83459
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 155.5526
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.2051382
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.765835
+          },
+          {
+            "Name": "Ozone",
+            "Value": 49.37136
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 5.653614
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 46.20623
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3873579
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.7195969
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 98.38823
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 172.2966
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.05401
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 2.151639
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 04:30:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 18,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 4:45 AM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "113ffe9b-fcf7-4029-821f-caadf465be94",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 13.83459
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 155.5526
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.2051382
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.765835
+          },
+          {
+            "Name": "Ozone",
+            "Value": 49.37136
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 5.653614
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 46.20623
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3873579
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.7195969
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 98.38823
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 172.2966
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.05401
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 2.151639
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 04:45:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 19,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 5:00 AM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "8a0a54cd-fbad-454e-bf94-5c0ecae62667",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 13.38411
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 150.4647
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.2093929
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.35515
+          },
+          {
+            "Name": "Ozone",
+            "Value": 49.46613
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 6.482883
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 46.25427
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3811224
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.7053187
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 94.06723
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 157.0128
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.817283
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 3.176229
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 05:00:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 20,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 5:15 AM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "ee656272-0420-443e-a743-ae1c65ee1de8",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 13.38411
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 150.4647
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.2093929
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.35515
+          },
+          {
+            "Name": "Ozone",
+            "Value": 49.46613
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 6.482883
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 46.25427
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3811224
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.7053187
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 94.06723
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 157.0128
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.817283
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 3.176229
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 05:15:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 21,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 5:30 AM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "89137353-da36-4e56-a9a9-3010f9faf0b8",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 13.38411
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 150.4647
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.2093929
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.35515
+          },
+          {
+            "Name": "Ozone",
+            "Value": 49.46613
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 6.482883
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 46.25427
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3811224
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.7053187
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 94.06723
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 157.0128
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.817283
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 3.176229
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 05:30:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 22,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 5:45 AM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "a1b701b7-8b15-43db-ac6e-acffb9b47d46",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 13.38411
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 150.4647
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.2093929
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.35515
+          },
+          {
+            "Name": "Ozone",
+            "Value": 49.46613
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 6.482883
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 46.25427
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3811224
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.7053187
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 94.06723
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 157.0128
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.817283
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 3.176229
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 05:45:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 23,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 6:00 AM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "d9b99cdb-35b3-40a3-a7c4-904aa505ee55",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 13.29638
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 154.437
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1974467
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.444572
+          },
+          {
+            "Name": "Ozone",
+            "Value": 49.51479
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 9.754914
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 47.33825
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3065673
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.8993459
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 102.5084
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 159.7574
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.692799
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 3.586066
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 06:00:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 24,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 6:15 AM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "1fb54b2a-658c-4a41-b975-ecbe1491de39",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 13.29638
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 154.437
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1974467
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.444572
+          },
+          {
+            "Name": "Ozone",
+            "Value": 49.51479
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 9.754914
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 47.33825
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3065673
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.8993459
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 102.5084
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 159.7574
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.692799
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 3.586066
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 06:15:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 25,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 6:30 AM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "fc36016f-67eb-4ee5-90b5-9a02d946fe1c",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 13.29638
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 154.437
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1974467
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.444572
+          },
+          {
+            "Name": "Ozone",
+            "Value": 49.51479
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 9.754914
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 47.33825
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3065673
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.8993459
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 102.5084
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 159.7574
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.692799
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 3.586066
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 06:30:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 26,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 6:45 AM Eastern Standard Time",
+        "TimeOfDay": "dawn",
+        "AssetBaseType": "File",
+        "AssetID": "8c9912fd-1399-484d-8627-1a7aeac6ec7f",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 13.29638
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 154.437
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1974467
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.444572
+          },
+          {
+            "Name": "Ozone",
+            "Value": 49.51479
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 9.754914
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 47.33825
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3065673
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.8993459
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 102.5084
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 159.7574
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.692799
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 3.586066
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 06:45:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 27,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 7:00 AM Eastern Standard Time",
+        "TimeOfDay": "dawn",
+        "AssetBaseType": "File",
+        "AssetID": "54992d25-e102-46dd-8418-437ff580b09b",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 14.00173
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 150.5333
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1899704
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.311053
+          },
+          {
+            "Name": "Ozone",
+            "Value": 49.50917
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 13.96093
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 45.68712
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 10.00658
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.7834128
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 106.1053
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 167.1842
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.817264
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 3.073771
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 07:00:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 28,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 7:15 AM Eastern Standard Time",
+        "TimeOfDay": "dawn",
+        "AssetBaseType": "File",
+        "AssetID": "3d9d3018-e768-48ff-9f48-0d659b6a579c",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 14.00173
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 150.5333
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1899704
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.311053
+          },
+          {
+            "Name": "Ozone",
+            "Value": 49.50917
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 13.96093
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 45.68712
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 10.00658
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.7834128
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 106.1053
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 167.1842
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.817264
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 3.073771
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 07:15:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 29,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 7:30 AM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "0d4e3568-e2bc-475b-a48e-58f7c8693282",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 14.00173
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 150.5333
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1899704
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.311053
+          },
+          {
+            "Name": "Ozone",
+            "Value": 49.50917
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 13.96093
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 45.68712
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 10.00658
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.7834128
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 106.1053
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 167.1842
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.817264
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 3.073771
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 07:30:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 30,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 7:45 AM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "0041419d-6022-4ac4-bfaf-f65dd4eb6a34",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 14.00173
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 150.5333
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1899704
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.311053
+          },
+          {
+            "Name": "Ozone",
+            "Value": 49.50917
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 13.96093
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 45.68712
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 10.00658
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.7834128
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 106.1053
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 167.1842
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.817264
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 3.073771
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 07:45:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 31,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 8:00 AM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "2b091061-8a63-44c2-9af7-690e57ecf70b",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 14.86732
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 123.216
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.175717
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.346453
+          },
+          {
+            "Name": "Ozone",
+            "Value": 48.63263
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 7.121945
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 44.077
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 76.26065
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.636503
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 107.2118
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 164.4311
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.120843
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 2.254098
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 08:00:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 32,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 8:15 AM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "0708888e-9887-4de6-a009-686e83d263f1",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 14.86732
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 123.216
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.175717
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.346453
+          },
+          {
+            "Name": "Ozone",
+            "Value": 48.63263
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 7.121945
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 44.077
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 76.26065
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.636503
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 107.2118
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 164.4311
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.120843
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 2.254098
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 08:15:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 33,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 8:30 AM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "2a818d91-56b9-443b-b724-44752cce5e37",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 14.86732
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 123.216
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.175717
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.346453
+          },
+          {
+            "Name": "Ozone",
+            "Value": 48.63263
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 7.121945
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 44.077
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 76.26065
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.636503
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 107.2118
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 164.4311
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.120843
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 2.254098
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 08:30:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 34,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 8:45 AM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "49ffae16-9412-4721-bfb8-ab4dcc1d54df",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 14.86732
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 123.216
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.175717
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.346453
+          },
+          {
+            "Name": "Ozone",
+            "Value": 48.63263
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 7.121945
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 44.077
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 76.26065
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.636503
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 107.2118
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 164.4311
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.120843
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 2.254098
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 08:45:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 35,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 9:00 AM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "b13dd534-4115-40a0-a281-a715102d147b",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 15.76068
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 132.5821
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1629019
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.831943
+          },
+          {
+            "Name": "Ozone",
+            "Value": 48.13423
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 7.467577
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 41.48144
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 352.2078
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4906645
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 101.2964
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 279.9326
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 0.60101
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 1.639344
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 09:00:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 36,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 9:15 AM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "1d030525-0766-40b5-8eda-2115ec2e2028",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 15.76068
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 132.5821
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1629019
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.831943
+          },
+          {
+            "Name": "Ozone",
+            "Value": 48.13423
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 7.467577
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 41.48144
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 352.2078
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4906645
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 101.2964
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 279.9326
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 0.60101
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 1.639344
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 09:15:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 37,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 9:30 AM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "887cb1f7-5712-4a49-aa72-64e0a87e13b0",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 15.76068
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 132.5821
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1629019
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.831943
+          },
+          {
+            "Name": "Ozone",
+            "Value": 48.13423
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 7.467577
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 41.48144
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 352.2078
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4906645
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 101.2964
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 279.9326
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 0.60101
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 1.639344
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 09:30:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 38,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 9:45 AM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "e2e8d2f1-016d-4140-955d-b485f97118fa",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 15.76068
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 132.5821
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1629019
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.831943
+          },
+          {
+            "Name": "Ozone",
+            "Value": 48.13423
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 7.467577
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 41.48144
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 352.2078
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4906645
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 101.2964
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 279.9326
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 0.60101
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 1.639344
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 09:45:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 39,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 10:00 AM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "ef7fb772-5e69-48a9-927e-494bdb090131",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 16.24727
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 135.461
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1632454
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.890325
+          },
+          {
+            "Name": "Ozone",
+            "Value": 49.58861
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 7.831674
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 39.75517
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 482.498
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.5225428
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 97.64071
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 282.7185
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 0.8361951
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 1.946721
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 10:00:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 40,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 10:15 AM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "7ba25c65-8e9d-4314-8722-b89ba38812ee",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 16.24727
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 135.461
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1632454
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.890325
+          },
+          {
+            "Name": "Ozone",
+            "Value": 49.58861
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 7.831674
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 39.75517
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 482.498
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.5225428
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 97.64071
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 282.7185
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 0.8361951
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 1.946721
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 10:15:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 41,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 10:30 AM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "35e2e952-d236-4dac-a16b-997312c6d472",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 16.24727
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 135.461
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1632454
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.890325
+          },
+          {
+            "Name": "Ozone",
+            "Value": 49.58861
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 7.831674
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 39.75517
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 482.498
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.5225428
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 97.64071
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 282.7185
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 0.8361951
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 1.946721
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 10:30:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 42,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 10:45 AM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "114b7d46-538b-46cb-95f3-bb932e68e013",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 16.24727
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 135.461
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1632454
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.890325
+          },
+          {
+            "Name": "Ozone",
+            "Value": 49.58861
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 7.831674
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 39.75517
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 482.498
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.5225428
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 97.64071
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 282.7185
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 0.8361951
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 1.946721
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 10:45:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 43,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 11:00 AM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "00f0cfe9-1f97-4bc8-b0e5-acb6e8fa72de",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 16.75261
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 141.4266
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1357909
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.754202
+          },
+          {
+            "Name": "Ozone",
+            "Value": 45.94716
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 6.701267
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 39.24301
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 560.1678
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.3740085
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 96.54048
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 290.0637
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 0.8977439
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 2.459016
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 11:00:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 44,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 11:15 AM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "89fc3723-750e-46d4-ae26-7f1c93c6b1f5",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 16.75261
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 141.4266
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1357909
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.754202
+          },
+          {
+            "Name": "Ozone",
+            "Value": 45.94716
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 6.701267
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 39.24301
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 560.1678
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.3740085
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 96.54048
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 290.0637
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 0.8977439
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 2.459016
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 11:15:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 45,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 11:30 AM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "5b6fac5d-2625-4f89-bf72-02a5f0e6028d",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 16.75261
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 141.4266
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1357909
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.754202
+          },
+          {
+            "Name": "Ozone",
+            "Value": 45.94716
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 6.701267
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 39.24301
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 560.1678
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.3740085
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 96.54048
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 290.0637
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 0.8977439
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 2.459016
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 11:30:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 46,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 11:45 AM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "6861e1b8-5aeb-42eb-99c8-488ddd67c358",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 16.75261
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 141.4266
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1357909
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.754202
+          },
+          {
+            "Name": "Ozone",
+            "Value": 45.94716
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 6.701267
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 39.24301
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 560.1678
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.3740085
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 96.54048
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 290.0637
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 0.8977439
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 2.459016
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 11:45:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 47,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 12:00 PM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "7918252b-9aff-4775-a456-4de284993ba8",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 16.57701
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 185.329
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.137197
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.440953
+          },
+          {
+            "Name": "Ozone",
+            "Value": 44.81087
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 6.543082
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 41.40607
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 583.9122
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.3566092
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 74.34167
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 321.4269
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 2.230298
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 4.303279
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 12:00:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 48,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 12:15 PM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "0920aff1-b425-44de-8828-84d88293653d",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 16.57701
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 185.329
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.137197
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.440953
+          },
+          {
+            "Name": "Ozone",
+            "Value": 44.81087
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 6.543082
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 41.40607
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 583.9122
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.3566092
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 74.34167
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 321.4269
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 2.230298
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 4.303279
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 12:15:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 49,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 12:30 PM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "10218a8c-243a-42e7-a4ea-8a13f1c3d635",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 16.57701
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 185.329
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.137197
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.440953
+          },
+          {
+            "Name": "Ozone",
+            "Value": 44.81087
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 6.543082
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 41.40607
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 583.9122
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.3566092
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 74.34167
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 321.4269
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 2.230298
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 4.303279
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 12:30:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 50,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 1:00 PM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "9b5fc363-609e-439c-afb8-b17716b14cbc",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 17.45927
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 195.6542
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1223861
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.939117
+          },
+          {
+            "Name": "Ozone",
+            "Value": 50.52232
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 8.113552
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 39.75337
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 545.4933
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4065553
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 71.94849
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 311.7155
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 2.018416
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 4.405738
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 01:00:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 51,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 1:15 PM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "8b290412-3c35-439d-8dc6-61e16eb7e6b2",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 17.45927
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 195.6542
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1223861
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.939117
+          },
+          {
+            "Name": "Ozone",
+            "Value": 50.52232
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 8.113552
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 39.75337
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 545.4933
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4065553
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 71.94849
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 311.7155
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 2.018416
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 4.405738
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 01:15:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 52,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 1:30 PM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "619b982a-a18c-44d8-8dd3-b488a67d7417",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 17.45927
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 195.6542
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1223861
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.939117
+          },
+          {
+            "Name": "Ozone",
+            "Value": 50.52232
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 8.113552
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 39.75337
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 545.4933
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4065553
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 71.94849
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 311.7155
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 2.018416
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 4.405738
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 01:30:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 53,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 1:45 PM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "95ea4121-1fe4-4bc4-b93a-e309fc285253",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 17.45927
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 195.6542
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1223861
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.939117
+          },
+          {
+            "Name": "Ozone",
+            "Value": 50.52232
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 8.113552
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 39.75337
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 545.4933
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4065553
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 71.94849
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 311.7155
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 2.018416
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 4.405738
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 01:45:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 54,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 2:00 PM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "ddd008c6-e2fe-427a-9edd-d87312727d9c",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 18.16087
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 197.9101
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.07910263
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 3.417623
+          },
+          {
+            "Name": "Ozone",
+            "Value": 53.66055
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 7.477961
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 37.58728
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 453.4329
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4035353
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 76.67012
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 294.4114
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.633249
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 3.995902
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 02:00:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 55,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 2:15 PM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "ed304efb-098a-4b4e-8e3a-cd3f14caec47",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 18.16087
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 197.9101
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.07910263
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 3.417623
+          },
+          {
+            "Name": "Ozone",
+            "Value": 53.66055
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 7.477961
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 37.58728
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 453.4329
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4035353
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 76.67012
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 294.4114
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.633249
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 3.995902
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 02:15:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 56,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 2:30 PM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "86ed37c4-edfa-4b0e-8829-a29c977d600b",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 18.16087
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 197.9101
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.07910263
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 3.417623
+          },
+          {
+            "Name": "Ozone",
+            "Value": 53.66055
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 7.477961
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 37.58728
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 453.4329
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4035353
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 76.67012
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 294.4114
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.633249
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 3.995902
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 02:30:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 57,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 2:45 PM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "633f98db-f4b4-4e42-aca5-10811e8f1b1d",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 18.16087
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 197.9101
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.07910263
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 3.417623
+          },
+          {
+            "Name": "Ozone",
+            "Value": 53.66055
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 7.477961
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 37.58728
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 453.4329
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4035353
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 76.67012
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 294.4114
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.633249
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 3.995902
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 02:45:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 58,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 3:00 PM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "57592aca-2322-4290-8a6d-07d4799f3d23",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 18.26424
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 217.1897
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": 0.0358395
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 4.820124
+          },
+          {
+            "Name": "Ozone",
+            "Value": 55.04901
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 9.186793
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 38.4242
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 298.6925
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4105376
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 70.85757
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 293.5961
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.415538
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 3.688524
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 03:00:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 59,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 3:15 PM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "27c80ecd-7337-45fb-9cc0-dba59eca6e2b",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 18.26424
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 217.1897
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": 0.0358395
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 4.820124
+          },
+          {
+            "Name": "Ozone",
+            "Value": 55.04901
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 9.186793
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 38.4242
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 298.6925
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4105376
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 70.85757
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 293.5961
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.415538
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 3.688524
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 03:15:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 60,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 3:30 PM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "77720a14-b335-498e-b9f9-e72ca278f9bc",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 18.26424
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 217.1897
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": 0.0358395
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 4.820124
+          },
+          {
+            "Name": "Ozone",
+            "Value": 55.04901
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 9.186793
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 38.4242
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 298.6925
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4105376
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 70.85757
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 293.5961
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.415538
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 3.688524
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 03:30:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 61,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 3:45 PM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "7038522d-304d-4009-9c49-43303a628f47",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 18.26424
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 217.1897
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": 0.0358395
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 4.820124
+          },
+          {
+            "Name": "Ozone",
+            "Value": 55.04901
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 9.186793
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 38.4242
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 298.6925
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4105376
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 70.85757
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 293.5961
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.415538
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 3.688524
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 03:45:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 62,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 4:00 PM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "c323b776-65be-4d70-afc5-8946b7d9fef7",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 18.2395
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 191.5821
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1099742
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 3.776309
+          },
+          {
+            "Name": "Ozone",
+            "Value": 57.0444
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 8.631213
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 39.79958
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 21.21419
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4387425
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 74.44933
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 282.2515
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.262852
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 2.663934
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 04:00:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 63,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 4:15 PM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "054441bc-c05e-418b-8479-3202f63c5fe7",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 18.2395
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 191.5821
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1099742
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 3.776309
+          },
+          {
+            "Name": "Ozone",
+            "Value": 57.0444
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 8.631213
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 39.79958
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 21.21419
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4387425
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 74.44933
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 282.2515
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.262852
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 2.663934
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 04:15:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 64,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 4:30 PM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "11884c0b-ff45-4cf2-8f73-551d85b40c07",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 18.2395
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 191.5821
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1099742
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 3.776309
+          },
+          {
+            "Name": "Ozone",
+            "Value": 57.0444
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 8.631213
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 39.79958
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 21.21419
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4387425
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 74.44933
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 282.2515
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.262852
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 2.663934
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 04:30:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 65,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 4:45 PM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "a8ad7caf-3af3-49ae-903a-79814f8a3de7",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 18.2395
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 191.5821
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1099742
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 3.776309
+          },
+          {
+            "Name": "Ozone",
+            "Value": 57.0444
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 8.631213
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 39.79958
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 21.21419
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4387425
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 74.44933
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 282.2515
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.262852
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 2.663934
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 04:45:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 66,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 5:00 PM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "2041e9ee-81d1-44fd-af9f-154843d5010c",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 17.48127
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 182.3702
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.166244
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.994381
+          },
+          {
+            "Name": "Ozone",
+            "Value": 56.98586
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 10.63445
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 42.17376
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 4.243283
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.508132
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 74.12726
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 305.6692
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.592222
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 2.663934
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 05:00:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 67,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 5:15 PM Eastern Standard Time",
+        "TimeOfDay": "day",
+        "AssetBaseType": "File",
+        "AssetID": "7a2e90ac-856d-45dd-ba77-c5453fb8525b",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 17.48127
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 182.3702
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.166244
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.994381
+          },
+          {
+            "Name": "Ozone",
+            "Value": 56.98586
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 10.63445
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 42.17376
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 4.243283
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.508132
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 74.12726
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 305.6692
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.592222
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 2.663934
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 05:15:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 68,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 5:30 PM Eastern Standard Time",
+        "TimeOfDay": "dusk",
+        "AssetBaseType": "File",
+        "AssetID": "b94072c1-8927-4eb0-8976-f8e9a41c9b22",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 17.48127
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 182.3702
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.166244
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.994381
+          },
+          {
+            "Name": "Ozone",
+            "Value": 56.98586
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 10.63445
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 42.17376
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 4.243283
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.508132
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 74.12726
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 305.6692
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.592222
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 2.663934
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 05:30:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 69,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 5:45 PM Eastern Standard Time",
+        "TimeOfDay": "dusk",
+        "AssetBaseType": "File",
+        "AssetID": "97a2f0b0-8592-422f-9099-8a01aedc98f8",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 17.48127
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 182.3702
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.166244
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.994381
+          },
+          {
+            "Name": "Ozone",
+            "Value": 56.98586
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 10.63445
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 42.17376
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": 4.243283
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.508132
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 74.12726
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 305.6692
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.592222
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 2.663934
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 05:45:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 70,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 6:00 PM Eastern Standard Time",
+        "TimeOfDay": "dusk",
+        "AssetBaseType": "File",
+        "AssetID": "65c627ad-7394-4028-ae77-f24c33eb9f74",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 16.98801
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 175.25
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1484347
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.483639
+          },
+          {
+            "Name": "Ozone",
+            "Value": 55.24141
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 10.26981
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 42.80523
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3642534
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4440219
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 86.91051
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 156.3612
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 0.7949992
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 2.151639
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 06:00:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 71,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 6:30 PM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "3488462c-0490-4a34-b314-a00490571f61",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 16.98801
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 175.25
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1484347
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.483639
+          },
+          {
+            "Name": "Ozone",
+            "Value": 55.24141
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 10.26981
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 42.80523
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3642534
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4440219
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 86.91051
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 156.3612
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 0.7949992
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 2.151639
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 06:30:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 72,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 6:45 PM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "00271a8f-5e8d-45d4-9ee3-765e8c528bba",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 16.98801
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 175.25
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1484347
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.483639
+          },
+          {
+            "Name": "Ozone",
+            "Value": 55.24141
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 10.26981
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 42.80523
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3642534
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4440219
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 86.91051
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 156.3612
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 0.7949992
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 2.151639
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 06:45:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 73,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 7:00 PM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "278e07eb-e81a-4fcd-afdd-ea3c3935529d",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 17.1895
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 184.7729
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1470443
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.238873
+          },
+          {
+            "Name": "Ozone",
+            "Value": 54.57278
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 13.44663
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 42.42372
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3829129
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4573832
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 65.52841
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 171.3783
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 0.7292473
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 1.844262
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 07:00:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 74,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 7:15 PM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "af66af3f-bcf8-4a23-b98c-3a8240779057",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 17.1895
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 184.7729
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1470443
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.238873
+          },
+          {
+            "Name": "Ozone",
+            "Value": 54.57278
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 13.44663
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 42.42372
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3829129
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4573832
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 65.52841
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 171.3783
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 0.7292473
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 1.844262
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 07:15:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 75,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 7:30 PM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "4e37cd1c-d7bb-4a04-b9be-40e3bb0543a3",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 17.1895
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 184.7729
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1470443
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.238873
+          },
+          {
+            "Name": "Ozone",
+            "Value": 54.57278
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 13.44663
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 42.42372
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3829129
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4573832
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 65.52841
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 171.3783
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 0.7292473
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 1.844262
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 07:30:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 76,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 7:45 PM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "c177020f-b27f-4489-a4f8-d6231768a479",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 17.1895
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 184.7729
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1470443
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.238873
+          },
+          {
+            "Name": "Ozone",
+            "Value": 54.57278
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 13.44663
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 42.42372
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3829129
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4573832
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 65.52841
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 171.3783
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 0.7292473
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 1.844262
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 07:45:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 77,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 8:00 PM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "5d1cf6b2-bd3c-4808-b04f-069957f49113",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 16.88028
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 207.6749
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1482204
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.02064
+          },
+          {
+            "Name": "Ozone",
+            "Value": 54.81751
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 21.17303
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 43.43554
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3825881
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4973632
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 41.98159
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 162.8845
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.015393
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 2.868852
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 08:00:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 78,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 8:15 PM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "98797774-e304-45df-adfc-f40920d2449a",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 16.88028
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 207.6749
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1482204
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.02064
+          },
+          {
+            "Name": "Ozone",
+            "Value": 54.81751
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 21.17303
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 43.43554
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3825881
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4973632
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 41.98159
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 162.8845
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.015393
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 2.868852
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 08:15:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 79,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 8:30 PM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "39772430-6ddc-427c-bd41-3641bd4731c3",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 16.88028
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 207.6749
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1482204
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.02064
+          },
+          {
+            "Name": "Ozone",
+            "Value": 54.81751
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 21.17303
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 43.43554
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3825881
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4973632
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 41.98159
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 162.8845
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.015393
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 2.868852
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 08:30:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 80,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 8:45 PM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "8b1d3cdf-a9fa-498f-9ff8-648705871066",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 16.88028
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 207.6749
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1482204
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.02064
+          },
+          {
+            "Name": "Ozone",
+            "Value": 54.81751
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 21.17303
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 43.43554
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3825881
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4973632
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 41.98159
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 162.8845
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.015393
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 2.868852
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 08:45:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 81,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 9:00 PM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "9ee6067f-6e57-46fd-be5c-97e94338ed6f",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 16.32932
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 232.434
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.152061
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.148273
+          },
+          {
+            "Name": "Ozone",
+            "Value": 54.96111
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 23.35824
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 45.36681
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3860399
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.5757868
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 22.12437
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 158.3324
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.326596
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 3.995902
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 09:00:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 82,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 9:15 PM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "601e3e1a-7c1e-4536-af2f-8f2f676ba83b",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 16.32932
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 232.434
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.152061
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.148273
+          },
+          {
+            "Name": "Ozone",
+            "Value": 54.96111
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 23.35824
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 45.36681
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3860399
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.5757868
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 22.12437
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 158.3324
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.326596
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 3.995902
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 09:15:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 83,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 9:30 PM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "e1a0577f-02db-4ddd-8f9b-69689dea26f9",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 16.32932
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 232.434
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.152061
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.148273
+          },
+          {
+            "Name": "Ozone",
+            "Value": 54.96111
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 23.35824
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 45.36681
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3860399
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.5757868
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 22.12437
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 158.3324
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.326596
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 3.995902
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 09:30:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 84,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 9:45 PM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "a82f8847-e446-4f9b-980d-acb4ece72d5f",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 16.32932
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 232.434
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.152061
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 2.148273
+          },
+          {
+            "Name": "Ozone",
+            "Value": 54.96111
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 23.35824
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 45.36681
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3860399
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.5757868
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 22.12437
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 158.3324
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 1.326596
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 3.995902
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 09:45:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 85,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 10:00 PM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "88136c2e-717e-4e82-8db5-871d3efbbd81",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 16.42832
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 263.2529
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.13869
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 1.951946
+          },
+          {
+            "Name": "Ozone",
+            "Value": 53.63692
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 30.54578
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 43.30917
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3811805
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.5476656
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 15.48601
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 155.9179
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 0.9743572
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 4.815574
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 10:00:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 86,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 10:15 PM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "4f2597bf-3662-40aa-b327-c941ca4d159f",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 16.42832
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 263.2529
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.13869
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 1.951946
+          },
+          {
+            "Name": "Ozone",
+            "Value": 53.63692
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 30.54578
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 43.30917
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3811805
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.5476656
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 15.48601
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 155.9179
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 0.9743572
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 4.815574
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 10:15:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 87,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 10:30 PM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "2e550c61-5c9d-48b5-a636-725775bcb1c1",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 16.42832
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 263.2529
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.13869
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 1.951946
+          },
+          {
+            "Name": "Ozone",
+            "Value": 53.63692
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 30.54578
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 43.30917
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3811805
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.5476656
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 15.48601
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 155.9179
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 0.9743572
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 4.815574
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 10:30:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 88,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 10:45 PM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "60c047f1-24da-4fda-b04c-0179e1a7cf34",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 16.42832
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 263.2529
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.13869
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 1.951946
+          },
+          {
+            "Name": "Ozone",
+            "Value": 53.63692
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 30.54578
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 43.30917
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3811805
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.5476656
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 15.48601
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 155.9179
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 0.9743572
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 4.815574
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 10:45:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 89,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 11:00 PM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "012e477b-f2e7-45d4-b71e-695443b86f5d",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 16.59042
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 216.5263
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1578085
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 1.597274
+          },
+          {
+            "Name": "Ozone",
+            "Value": 51.08353
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 19.61164
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 40.29725
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3818448
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4561509
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 33.50033
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 167.4182
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 0.897467
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 4.610656
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 11:00:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 90,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 11:15 PM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "c5888232-ecb1-4102-9e34-7b57486bd2bb",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 16.59042
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 216.5263
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1578085
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 1.597274
+          },
+          {
+            "Name": "Ozone",
+            "Value": 51.08353
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 19.61164
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 40.29725
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3818448
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4561509
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 33.50033
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 167.4182
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 0.897467
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 4.610656
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 11:15:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 91,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 11:30 PM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "e9665de8-6b7c-46a8-bc4a-b4f012186454",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 16.59042
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 216.5263
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1578085
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 1.597274
+          },
+          {
+            "Name": "Ozone",
+            "Value": 51.08353
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 19.61164
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 40.29725
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3818448
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4561509
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 33.50033
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 167.4182
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 0.897467
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 4.610656
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 11:30:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 92,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/17/2016 11:45 PM Eastern Standard Time",
+        "TimeOfDay": "night",
+        "AssetBaseType": "File",
+        "AssetID": "fa08aaf3-83da-49ab-b9ab-80e2307a2a2b",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [
+          {
+            "Name": "AirTemperature",
+            "Value": 16.59042
+          },
+          {
+            "Name": "CarbonDioxide",
+            "Value": 216.5263
+          },
+          {
+            "Name": "NitricOxide",
+            "Value": -0.1578085
+          },
+          {
+            "Name": "TotalReactiveNitrogen",
+            "Value": 1.597274
+          },
+          {
+            "Name": "Ozone",
+            "Value": 51.08353
+          },
+          {
+            "Name": "ParticulateMatter",
+            "Value": 19.61164
+          },
+          {
+            "Name": "PrecipitationLastHour",
+            "Value": 0.0
+          },
+          {
+            "Name": "RelativeHumidity",
+            "Value": 40.29725
+          },
+          {
+            "Name": "SolarRadiation",
+            "Value": -0.3818448
+          },
+          {
+            "Name": "SulfurDioxide",
+            "Value": 0.4561509
+          },
+          {
+            "Name": "VisualRange",
+            "Value": 33.50033
+          },
+          {
+            "Name": "WindDirection",
+            "Value": 167.4182
+          },
+          {
+            "Name": "WindSpeed",
+            "Value": 0.897467
+          },
+          {
+            "Name": "WindSpeedPeak",
+            "Value": 4.610656
+          }
+        ],
+        "ImageCreateDate": {
+          "Date": "11/17/2016"
+        },
+        "ImageCreateDateTime": "11/17/2016 11:45:00 PM"
+      }
+    }
+  ],
+  "UnfilteredPageCount": 1,
+  "PageCount": 1
+}

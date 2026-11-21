@@ -1,0 +1,96 @@
+{
+  "20 Nov 2016 12:00 (clear ref)": {
+    "nps": {
+      "time": "11/20/2016 12:00 PM Eastern Standard Time",
+      "ParticulateMatter": 2.064267,
+      "VisualRange": 122.4347,
+      "RelativeHumidity": 46.90614,
+      "beta_from_VR_Mm": 31.95172610379247
+    },
+    "absolute": {
+      "beta_Mm": 31.25336972020533,
+      "ci_Mm": [
+        20.446546098036542,
+        38.970213019055
+      ],
+      "r2": 0.8980702512243589,
+      "n_bands": 9,
+      "A": 0.4065390579883377
+    },
+    "differential": null
+  },
+  "26 Nov 2016 12:00 (requested)": {
+    "nps": {
+      "time": "11/26/2016 12:00 PM Eastern Standard Time",
+      "ParticulateMatter": 4.651134,
+      "VisualRange": 39.30153,
+      "RelativeHumidity": 70.32778,
+      "beta_from_VR_Mm": 99.53810958504668
+    },
+    "absolute": {
+      "beta_Mm": 31.041442270399,
+      "ci_Mm": [
+        3.310238433861957,
+        95.43256441400499
+      ],
+      "r2": 0.6106316491628941,
+      "n_bands": 7,
+      "A": 0.29905033156701166
+    },
+    "differential": {
+      "beta_Mm": 31.5799613599382,
+      "ci_Mm": [
+        14.592593195035223,
+        88.2045219096148
+      ],
+      "r2": 0.08182245115438769,
+      "n_bands": 7,
+      "beta_ref_Mm": 31.951726103792467,
+      "used": [
+        "Happy Valley Ridge",
+        "Beard Cane Mtn",
+        "Cades Cove",
+        "Rich Mtn",
+        "Cove Mountain",
+        "Mt LeConte",
+        "Mt Guyot"
+      ]
+    }
+  },
+  "14 Nov 2016 12:30 (extra, smoky)": {
+    "nps": {
+      "time": "11/14/2016 12:30 PM Eastern Standard Time",
+      "ParticulateMatter": 89.31821,
+      "VisualRange": 5.648033,
+      "RelativeHumidity": 52.81728,
+      "beta_from_VR_Mm": 692.6305140214301
+    },
+    "absolute": {
+      "beta_Mm": 24.003888110923366,
+      "ci_Mm": [
+        -60.96376699121289,
+        315.3665042322853
+      ],
+      "r2": 0.23004377979721335,
+      "n_bands": 5,
+      "A": 0.2642390843496892
+    },
+    "differential": {
+      "beta_Mm": 28.24714889075262,
+      "ci_Mm": [
+        -61.93125606697497,
+        326.87168423804127
+      ],
+      "r2": 0.04717894645670156,
+      "n_bands": 5,
+      "beta_ref_Mm": 31.951726103792467,
+      "used": [
+        "Happy Valley Ridge",
+        "Beard Cane Mtn",
+        "Cove Mountain",
+        "Mt LeConte",
+        "Mt Guyot"
+      ]
+    }
+  }
+}

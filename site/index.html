@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Pluma</title>
+<link rel="stylesheet" href="fonts.css">
+<link rel="stylesheet" href="styles.css?v=19">
+</head>
+<body>
+<header class="topbar">
+  <div class="wrap">
+    <a class="brand" href="#" aria-label="Pluma">
+      <!-- mark: three ridgelines fading with distance -->
+      <svg width="26" height="26" viewBox="0 0 26 26" aria-hidden="true">
+        <rect width="26" height="26" rx="6" fill="var(--sky)"/>
+        <path d="M3 12.5 L8 9 L12 11 L17 7.5 L23 10.5" fill="none" stroke="#fff" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round" opacity=".45"/>
+        <path d="M3 16.5 L7 14 L11.5 16 L16 12.5 L23 15.5" fill="none" stroke="#fff" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round" opacity=".72"/>
+        <path d="M3 21 L9 18 L14 20 L18.5 17.5 L23 19.5" fill="none" stroke="#fff" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+      </svg>
+      <span>Pluma</span>
+    </a>
+    <nav class="nav" aria-label="Sections">
+      <a href="#lookrock" aria-current="true" class="keep">Look Rock</a>
+      <a href="#arkansas">Arkansas</a>
+      <a href="#depth">Depth</a>
+      <a href="#videos">Videos</a>
+      <a href="#details">Details</a>
+    </nav>
+    <button class="btn icon" id="theme" aria-label="Switch light or dark">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg>
+    </button>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="lead" id="lookrock">
+    <h1>Existing cameras as air sensors</h1>
+    <p class="sub">A park webcam in the Great Smoky Mountains, read for haze and checked against the monitor on the same tower.</p>
+
+    <div class="answer">
+      <div class="num" id="rho-ext">0.79</div>
+      <div class="line">Camera haze matches the park's haze instrument<span class="status strong">Strong</span>
+        <small id="rho-ext-note">Rank match across 77 daytime hours in November 2016.</small></div>
+      <div class="num" id="cat-within">90%</div>
+      <div class="line">PM2.5 within one air-quality category on days it never saw<span class="status promising">Promising</span>
+        <small id="cat-note">Exact category 55% of the time, 29 hours, 19–29 Nov.</small></div>
+    </div>
+  </section>
+
+  <div class="sheet viewer" aria-label="Hour by hour viewer">
+    <div class="viewer-head">
+      <div class="when" id="when">—</div>
+      <div class="split" id="split">—</div>
+      <div class="controls">
+        <button class="btn icon" id="prev" aria-label="Previous hour"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg></button>
+        <button class="btn primary" id="play" aria-label="Play"><svg id="play-ic" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><polygon points="6 3 20 12 6 21 6 3"/></svg><span id="play-tx">Play</span></button>
+        <button class="btn icon" id="next" aria-label="Next hour"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg></button>
+      </div>
+    </div>
+
+    <div class="pair">
+      <figure class="pane">
+        <div class="frame"><img id="photo" src="frames/grsm_20161126_1200.jpg" alt="Look Rock camera frame"></div>
+        <figcaption><b>Camera frame</b> · National Park Service, Look Rock tower</figcaption>
+      </figure>
+      <figure class="pane">
+        <div class="frame" id="sight-frame"><canvas id="sight" width="1000" height="520"></canvas><div class="vr-tag" id="vr-tag"></div></div>
+        <figcaption><b>How far the camera can see</b> · share of each ridge's light that gets through the haze</figcaption>
+      </figure>
+    </div>
+
+    <div class="readout">
+      <div><div class="label">Camera PM2.5</div><div class="big" id="cam">—</div><div class="cat" id="cam-cat"></div></div>
+      <div><div class="label">Monitor PM2.5</div><div class="big" id="mon">—</div><div class="cat" id="mon-cat"></div></div>
+      <div><div class="label">Visibility</div><div class="big" id="vis">—</div><div class="delta" id="vis-site"></div></div>
+    </div>
+
+    <div class="timeline">
+      <svg id="tl" role="slider" aria-label="Choose an hour" tabindex="0"></svg>
+      <div class="hint">Daytime hours only (10:00–16:00), nights skipped. Click or drag to pick an hour; arrow keys step one hour.</div>
+    </div>
+  </div>
+
+  <section class="block" id="arkansas">
+    <h2>Arkansas road cameras</h2>
+    <p class="sub">The same model and the November calibration, unchanged. These views have no PM2.5 monitor nearby, which is why they matter.</p>
+    <div class="answer compact">
+      <div class="num">46 km</div>
+      <div class="line">From the Tunnel Tower camera to the nearest PM2.5 monitor
+        <small>Springdale. The north-central Ozarks have no regulatory monitor at all.</small></div>
+    </div>
+    <figure class="sheet map-sheet" id="ark-map-wrap"><svg id="ark-map" viewBox="0 0 900 560" role="img" aria-label="Map of Arkansas PM2.5 monitors and the cameras"></svg>
+      <figcaption>PM2.5 monitors that reported to EPA in 2025, and the two ARDOT cameras.</figcaption></figure>
+    <div class="sheet now" id="ark-now" aria-label="Latest readings"></div>
+    <div class="sheet viewer" id="ark-viewer" aria-label="Arkansas camera viewer">
+      <div class="viewer-head">
+        <div class="seg" role="group" aria-label="Camera" id="ark-cams"></div>
+        <div class="when" id="ark-when">—</div>
+        <div class="controls">
+          <button class="btn icon" id="ark-prev" aria-label="Previous frame"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg></button>
+          <button class="btn icon" id="ark-next" aria-label="Next frame"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg></button>
+        </div>
+      </div>
+      <div class="pair">
+        <figure class="pane">
+          <div class="frame cam-frame"><img id="ark-photo" src="arkansas/tunnel/frames/ardot_4009_tunnel_tower_20261121_1353CST.jpg" alt="ARDOT camera frame"></div>
+          <figcaption id="ark-cap1"><b>Camera frame</b></figcaption>
+        </figure>
+        <figure class="pane">
+          <div class="frame cam-frame dark-frame" id="ark-sight-frame"><canvas id="ark-sight"></canvas><img id="ark-depth" src="arkansas/tunnel/depth.jpg" alt="Depth map" hidden><div class="vr-tag" id="ark-tag"></div></div>
+          <figcaption id="ark-cap2"><b>How far the camera can see</b> · predicted share of each ridge's light that gets through</figcaption>
+        </figure>
+      </div>
+      <div class="readout">
+        <div><div class="label">Predicted PM2.5</div><div class="big" id="ark-pm">—</div><div class="cat" id="ark-cat"></div></div>
+        <div><div class="label">Predicted visibility</div><div class="big" id="ark-vis">—</div><div class="delta" id="ark-vis-note"></div></div>
+        <div><div class="label">Humidity</div><div class="big" id="ark-rh">—</div><div class="delta" id="ark-rh-src"></div></div>
+      </div>
+      <p class="why" id="ark-why" hidden></p>
+      <div class="timeline">
+        <svg id="ark-tl" role="slider" aria-label="Choose a frame" tabindex="0"></svg>
+        <div class="hint" id="ark-hint"></div>
+      </div>
+    </div>
+    <p class="note">ARDOT keeps no archive and its terms forbid automated capture without permission, so frames are saved by hand from IDrive Arkansas. There is no monitor here to check against.</p>
+  </section>
+
+  <section class="block" id="depth">
+    <h2>Which depth model sees the ridges</h2>
+    <p class="sub">Run once on the clear Look Rock frame. The scene does not move, so one depth map serves every hour.</p>
+    <div class="trio">
+      <figure class="pane"><div class="frame"><img src="depth/source.jpg" alt="Look Rock clear frame, 20 Nov 2016"></div>
+        <figcaption><b>Clear frame</b> · 20 Nov 2016, 12:00</figcaption></figure>
+      <figure class="pane"><div class="frame"><img src="depth/da3.jpg" alt="DA3 depth map"></div>
+        <figcaption><b>DA3-Small</b> · keeps the ridges in order: rank match <b>0.68</b> with the park's chart</figcaption></figure>
+      <figure class="pane"><div class="frame"><img src="depth/dp2.jpg" alt="Depth Pro 2 depth map"></div>
+        <figcaption><b>Depth Pro 2 (B)</b> · sharp up close, but every ridge past about 1 km comes back as infinitely far</figcaption></figure>
+    </div>
+    <p class="note">Light is near, dark is far, deepest navy is infinitely far. Depth Pro 2 weights are under Apple's research licence (non-commercial).</p>
+  </section>
+
+  <section class="block" id="videos">
+    <h2>Videos</h2>
+    <p class="sub">Recorded from this page and from the model's own numbers.</p>
+    <div class="vids">
+      <figure class="pane"><video src="videos/pluma_lookrock_viewer_20s.mp4" controls muted playsinline preload="metadata" poster="depth/source.jpg"></video>
+        <figcaption><b>Look Rock, hour by hour</b> · camera against the park's monitor, November 2016</figcaption></figure>
+      <figure class="pane"><video src="videos/pluma_method_explainer.mp4" controls muted playsinline preload="metadata"></video>
+        <figcaption><b>How it works</b> · fading against distance, steeper line means dirtier air</figcaption></figure>
+      <figure class="pane"><video src="videos/pluma_arkansas_reading.mp4" controls muted playsinline preload="metadata"></video>
+        <figcaption><b>Arkansas</b> · monitor map, readings by camera, Tunnel Tower viewer</figcaption></figure>
+    </div>
+  </section>
+
+  <section class="block" id="details">
+    <details class="details sheet">
+      <summary>Details: how it works, sources and limits</summary>
+      <dl class="facts">
+        <div><dt>Haze model</dt><dd>Far ridges fade toward the haze brightness. How fast they fade with distance gives extinction, the light lost per kilometre (Koschmieder).</dd></div>
+        <div><dt>Distances</dt><dd>Look Rock: the National Park Service landmark chart, 1 to 40 miles. Arkansas: ridge crests from AWS terrain tiles along the view, plus one estimated near distance.</dd></div>
+        <div><dt>PM2.5</dt><dd>Extinction minus clean air, divided by a mass factor fitted on 8–18 Nov 2016 only. Humidity exponent fixed at 0.4.</dd></div>
+        <div><dt>Reference</dt><dd>The NPS monitor (TEOM) on the Look Rock tower, read from the <a href="https://www.nps.gov/AirWebCams/grsm">NPS AirWebCams archive</a>. Not an EPA file; it can read low in heavy smoke.</dd></div>
+        <div><dt>Gates</dt><dd>No reading when the sun is low or in view, humidity is above 85%, or broken cloud fills the sky. 80 of 191 November hours passed.</dd></div>
+        <div><dt>Limits</dt><dd>Calibration is per season: a June 2016 test did not transfer. The camera reads the air across the valleys; the monitor reads the tower top, so they disagree when smoke lies low (26 Nov).</dd></div>
+        <div><dt>Arkansas</dt><dd>Single frames, no local monitor to check against. Humidity from the <a href="https://aviationweather.gov/">Fayetteville METAR</a>. Any automated use of ARDOT cameras needs ARDOT's permission.</dd></div>
+      </dl>
+    </details>
+  </section>
+</main>
+
+<footer class="wrap">PM2.5 reference: the National Park Service monitor (TEOM) on the Look Rock tower. It is not an EPA file and can read low in heavy smoke.</footer>
+<script src="app.js?v=19"></script>
+</body>
+</html>

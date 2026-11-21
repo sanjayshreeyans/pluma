@@ -1,0 +1,96 @@
+{
+ "camera": "ARDOT Tunnel Tower Cam (4009), I-49, Boston Mountains",
+ "short": "Tunnel Tower, I-49",
+ "lat": 35.7678,
+ "lon": -94.1893,
+ "elevation_ft": 1842,
+ "heading": "south (180\u00b0)",
+ "nearest_monitor": "Springdale (05-143-0005), 46 km",
+ "bands_km": [
+  0.412689645542598,
+  1.4610805729133691,
+  2.971346079626891,
+  5.942442873404981,
+  15.190112101410447
+ ],
+ "anchors": [
+  {
+   "band": 0,
+   "km": 0.4,
+   "source": "estimated: forest below the tower"
+  },
+  {
+   "band": 3,
+   "km": 6.7,
+   "source": "terrain ridge at 6.7 km, heading 180\u00b0"
+  },
+  {
+   "band": 4,
+   "km": 13.9,
+   "source": "terrain horizon at 13.9 km, heading 180\u00b0"
+  }
+ ],
+ "scale": {
+  "a": 2.0323081767816644,
+  "b": 7.752234087090626
+ },
+ "alpha": 3.672664059748907,
+ "g": 0.4,
+ "distance_encoding": {
+  "log10_min": 1.4771212547196624,
+  "log10_max": 4.845098040014257,
+  "sky": 0
+ },
+ "size": [
+  800,
+  450
+ ],
+ "series": [
+  {
+   "file": "frames/ardot_4009_tunnel_tower_20261121_1353CST.jpg",
+   "taken": "2026-11-21T13:53-06:00",
+   "rh": 53,
+   "rh_source": "Fayetteville METAR, 20:00 UTC",
+   "horizon_spread": 0.08299089829767713,
+   "extinction_Mm": 2.973393073991091,
+   "extinction_ci": [
+    0.0,
+    32.36267520025339
+   ],
+   "fit_r2": 0.8352294610523047,
+   "status": "no reading",
+   "reasons": [
+    "the haze came out below the clean-air floor (3.0 vs 11 Mm\u207b\u00b9)"
+   ],
+   "pm25": 0.0,
+   "category": "Good",
+   "pm25_range": [
+    0.0,
+    10.898226293726381
+   ],
+   "visual_range_km": 1315.6686326537535
+  },
+  {
+   "file": "frames/ardot_4009_tunnel_tower_20261121_1409CST.jpg",
+   "taken": "2026-11-21T14:09-06:00",
+   "rh": 53,
+   "rh_source": "Fayetteville METAR, 20:00 UTC",
+   "horizon_spread": 0.11548023728020866,
+   "extinction_Mm": 25.160663197836577,
+   "extinction_ci": [
+    0.0,
+    48.70054284188589
+   ],
+   "fit_r2": 0.9032075373797159,
+   "status": "reading",
+   "reasons": [],
+   "pm25": 2.8506344652681928,
+   "category": "Good",
+   "pm25_range": [
+    0.0,
+    17.631278121955386
+   ],
+   "visual_range_km": 155.48079830965548
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "method": "all bands",
+ "frames_total": 191,
+ "frames_passed_gates": 80,
+ "camera_vs_site_extinction": {
+  "n": 77,
+  "spearman": 0.7897943490518986
+ },
+ "alpha": 3.672664059748907,
+ "g_fixed": 0.4,
+ "train_days": "8-18 Nov 2016",
+ "test_days": "19-29 Nov 2016",
+ "train": {
+  "n": 48,
+  "spearman": 0.8128528006947461,
+  "mean_error": -1.8901623217058916,
+  "mean_abs_error": 10.092891279473736,
+  "category_match": 0.7291666666666666,
+  "within_one_category": 0.9375
+ },
+ "test": {
+  "n": 29,
+  "spearman": 0.5093596059113299,
+  "mean_error": 6.218208187722801,
+  "mean_abs_error": 10.620059928353264,
+  "category_match": 0.5517241379310345,
+  "within_one_category": 0.896551724137931
+ },
+ "reference_note": "PM2.5 reference: NPS on-site TEOM at Look Rock (NPS AirWebCams archive), not an EPA file; TEOMs can read low in heavy smoke."
+}

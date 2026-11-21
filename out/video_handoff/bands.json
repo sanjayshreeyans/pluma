@@ -1,0 +1,109 @@
+{
+ "Happy Valley Ridge": {
+  "distance_miles": 1,
+  "distance_km": 1.61,
+  "region_px": {
+   "x0": 450,
+   "x1": 620,
+   "y0": 500,
+   "y1": 530
+  }
+ },
+ "Beard Cane Mtn": {
+  "distance_miles": 5,
+  "distance_km": 8.05,
+  "region_px": {
+   "x0": 650,
+   "x1": 720,
+   "y0": 440,
+   "y1": 460
+  }
+ },
+ "Cades Cove": {
+  "distance_miles": 8,
+  "distance_km": 12.87,
+  "region_px": {
+   "x0": 790,
+   "x1": 860,
+   "y0": 425,
+   "y1": 435
+  }
+ },
+ "Rich Mtn": {
+  "distance_miles": 10,
+  "distance_km": 16.09,
+  "region_px": {
+   "x0": 450,
+   "x1": 540,
+   "y0": 380,
+   "y1": 395
+  }
+ },
+ "Thunderhead Mtn": {
+  "distance_miles": 15,
+  "distance_km": 24.14,
+  "region_px": {
+   "x0": 830,
+   "x1": 960,
+   "y0": 352,
+   "y1": 368
+  }
+ },
+ "Cove Mountain": {
+  "distance_miles": 19,
+  "distance_km": 30.58,
+  "region_px": {
+   "x0": 70,
+   "x1": 150,
+   "y0": 395,
+   "y1": 410
+  }
+ },
+ "Clingmans Dome": {
+  "distance_miles": 26,
+  "distance_km": 41.84,
+  "region_px": {
+   "x0": 630,
+   "x1": 700,
+   "y0": 366,
+   "y1": 376
+  }
+ },
+ "Mt LeConte": {
+  "distance_miles": 29,
+  "distance_km": 46.67,
+  "region_px": {
+   "x0": 335,
+   "x1": 375,
+   "y0": 375,
+   "y1": 388
+  }
+ },
+ "Mt Guyot": {
+  "distance_miles": 40,
+  "distance_km": 64.37,
+  "region_px": {
+   "x0": 235,
+   "x1": 285,
+   "y0": 386,
+   "y1": 393
+  }
+ },
+ "_sky": {
+  "region_px": {
+   "x0": 50,
+   "x1": 600,
+   "y0": 322,
+   "y1": 342
+  }
+ },
+ "_foreground_gain": {
+  "region_px": {
+   "x0": 40,
+   "x1": 420,
+   "y0": 640,
+   "y1": 740
+  }
+ },
+ "_note": "Pixel boxes in 1000x750 frames. Distances from the NPS Look Rock landmark chart."
+}

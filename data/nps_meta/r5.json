@@ -1,0 +1,1728 @@
+{
+  "internal_result_terms": [
+    1,
+    9,
+    5,
+    2,
+    3
+  ],
+  "CacheResults": false,
+  "CacheFilterCounts": false,
+  "DisplayAttribute": "",
+  "Page": 1,
+  "PageSize": 300,
+  "SearchType": "AirWebCams",
+  "Branding": "AIRWEBCAMS",
+  "Workflow": "DEFAULT",
+  "SearchID": "59cedeec-bd4b-40ff-9e3c-376123a10a8e",
+  "IsUserQuery": false,
+  "Save": false,
+  "MergeGroups": false,
+  "Operand": {
+    "LeftOperand": {
+      "MatchType": "Exact",
+      "Term": "LocationCode",
+      "Attribute": "grsm"
+    },
+    "RightOperand": {
+      "CompareType": "=",
+      "Term": "ImageCreateDate",
+      "Attribute": "11/5/2016"
+    },
+    "Operator": "AND"
+  },
+  "ActionFilter": "Search",
+  "StatusFilter": "Active",
+  "SortTerms": [
+    {
+      "Term": "CreateDate",
+      "Ascending": true
+    }
+  ],
+  "ResultTerms": [
+    "ImageCreateDate",
+    "CustomTextFields",
+    "CustomNumberFields",
+    "AdditionalMetadata"
+  ],
+  "UnfilteredCount": 93,
+  "ResultCount": 93,
+  "Results": [
+    {
+      "ItemNumber": 1,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 1:00 AM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -69.7091097494911,
+        "AssetBaseType": "File",
+        "AssetID": "0797ba07-b58f-4989-8734-0aac96757e53",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 12:00:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 2,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 1:15 AM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -70.1542678708943,
+        "AssetBaseType": "File",
+        "AssetID": "a41444e3-43c7-4c21-b715-60d6512576ac",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 12:15:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 3,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 1:30 AM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -70.0398703486255,
+        "AssetBaseType": "File",
+        "AssetID": "0cbc60e8-fd9a-4bb8-921b-5192b7ed1d81",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 12:30:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 4,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 1:45 AM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -69.3753589945801,
+        "AssetBaseType": "File",
+        "AssetID": "544472cb-f000-4173-b89a-bedeb5e3535d",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 12:45:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 5,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 2:00 AM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -68.2115688642228,
+        "AssetBaseType": "File",
+        "AssetID": "170d985d-7231-4182-9883-1adfad6f7649",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 01:00:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 6,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 2:15 AM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -66.6238867956637,
+        "AssetBaseType": "File",
+        "AssetID": "8d6df539-9adc-4ed6-89de-fdbfd676a29e",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 01:15:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 7,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 2:30 AM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -64.6932230472866,
+        "AssetBaseType": "File",
+        "AssetID": "da5cdb9e-dc1a-4da3-83c6-9432c760614b",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 01:30:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 8,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 2:45 AM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -62.4932214522291,
+        "AssetBaseType": "File",
+        "AssetID": "c811ae53-d4e5-4465-be82-bc62761ec041",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 01:45:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 9,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 3:00 AM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -60.085000411715,
+        "AssetBaseType": "File",
+        "AssetID": "3aef65aa-767b-46ba-9277-ef77e8da944f",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 02:00:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 10,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 3:15 AM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -57.5167975505988,
+        "AssetBaseType": "File",
+        "AssetID": "a649f508-4845-45f5-a79b-4189ff975b1e",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 02:15:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 11,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 3:45 AM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -52.0403686018774,
+        "AssetBaseType": "File",
+        "AssetID": "e394b206-ebde-4c8d-b1db-c86073c597e4",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 02:45:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 12,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 4:15 AM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -46.2686934098983,
+        "AssetBaseType": "File",
+        "AssetID": "33a38305-5c74-40af-8a28-f81c7a394978",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 03:15:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 13,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 4:30 AM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -43.3125656496907,
+        "AssetBaseType": "File",
+        "AssetID": "8b1ea893-e665-475d-ab79-be1ad1668994",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 03:30:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 14,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 4:45 AM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -40.3245913486746,
+        "AssetBaseType": "File",
+        "AssetID": "4125d633-79ed-44b4-8623-94e7fe9f1a27",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 03:45:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 15,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 5:00 AM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -37.3133950252693,
+        "AssetBaseType": "File",
+        "AssetID": "1b006b9f-1bea-4e4f-a256-575436944649",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 04:00:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 16,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 5:30 AM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -31.2490699016882,
+        "AssetBaseType": "File",
+        "AssetID": "e7a7a114-f423-4565-8a72-18cc4f76ca5a",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 04:30:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 17,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 5:45 AM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -28.2074800802442,
+        "AssetBaseType": "File",
+        "AssetID": "0488e5dd-b901-4358-bdfb-89d477712fa2",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 04:45:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 18,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 6:00 AM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -25.1662902663163,
+        "AssetBaseType": "File",
+        "AssetID": "2cbee6c3-dd62-48ae-86c2-8835a123ee02",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 05:00:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 19,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 6:15 AM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -22.1300734715426,
+        "AssetBaseType": "File",
+        "AssetID": "3737925c-e3f3-4988-af0f-e813130f7fd3",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 05:15:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 20,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 6:30 AM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -19.1032523617923,
+        "AssetBaseType": "File",
+        "AssetID": "436bc061-f62c-48ee-af07-82198e860496",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 05:30:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 21,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 6:45 AM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -16.0902612136001,
+        "AssetBaseType": "File",
+        "AssetID": "990b8205-59ea-46ee-851a-d5ec2ee387bd",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 05:45:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 22,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 7:00 AM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -13.0955208390574,
+        "AssetBaseType": "File",
+        "AssetID": "c1f5ed5b-dbe5-4a14-8fdb-182d63998991",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 06:00:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 23,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 7:15 AM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -10.1221744664986,
+        "AssetBaseType": "File",
+        "AssetID": "4cdbf842-82b3-4e8e-900b-9973f5bb1e3b",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 06:15:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 24,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 7:30 AM Eastern Daylight Time",
+        "TimeOfDay": "dawn",
+        "SolarElevationAngle": -7.15880418528714,
+        "AssetBaseType": "File",
+        "AssetID": "24f4ebb0-d3bf-44f4-b4db-4df577d9ad09",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 06:30:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 25,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 7:45 AM Eastern Daylight Time",
+        "TimeOfDay": "dawn",
+        "SolarElevationAngle": -3.99769875304193,
+        "AssetBaseType": "File",
+        "AssetID": "3662e71d-94ed-446b-a12b-b4e8a9e905b6",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 06:45:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 26,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 8:00 AM Eastern Daylight Time",
+        "TimeOfDay": "dawn",
+        "SolarElevationAngle": -0.556641785284284,
+        "AssetBaseType": "File",
+        "AssetID": "2a96ba36-0d11-4ad0-b6a9-9de939be530c",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 07:00:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 27,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 8:15 AM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 1.93017417776932,
+        "AssetBaseType": "File",
+        "AssetID": "655094d3-11fe-4c95-9a4f-71f657f0a5a1",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 07:15:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 28,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 8:30 AM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 4.61942392908304,
+        "AssetBaseType": "File",
+        "AssetID": "d48dfbe5-03a2-4803-97f9-ceca3b46db85",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 07:30:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 29,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 8:45 AM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 7.33829519701783,
+        "AssetBaseType": "File",
+        "AssetID": "18305072-f3ed-4d37-9490-62510c37ce28",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 07:45:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 30,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 9:00 AM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 10.0294526052894,
+        "AssetBaseType": "File",
+        "AssetID": "00df360d-0379-4d30-9010-399ec720bc68",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 08:00:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 31,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 9:15 AM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 12.6713459639723,
+        "AssetBaseType": "File",
+        "AssetID": "ad6938aa-a064-48a3-8971-f794a70866ea",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 08:15:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 32,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 9:30 AM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 15.2509736242828,
+        "AssetBaseType": "File",
+        "AssetID": "d0154bab-d864-4ad9-ac8a-74e605285f02",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 08:30:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 33,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 9:45 AM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 17.757599337248,
+        "AssetBaseType": "File",
+        "AssetID": "f37cdab5-cefb-4a04-9339-c1f996bc736a",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 08:45:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 34,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 10:00 AM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 20.1808600414818,
+        "AssetBaseType": "File",
+        "AssetID": "1f942aa2-e721-4a18-9788-c7eff3df3c0d",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 09:00:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 35,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 10:15 AM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 22.5100530226144,
+        "AssetBaseType": "File",
+        "AssetID": "0b42f606-a425-4b2a-b619-b5532e07a538",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 09:15:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 36,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 10:30 AM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 24.7338067145542,
+        "AssetBaseType": "File",
+        "AssetID": "72b5169b-a3cb-47ff-813c-d8e69df5cfaf",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 09:30:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 37,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 10:45 AM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 26.8399515362309,
+        "AssetBaseType": "File",
+        "AssetID": "61bfef9d-5ef2-4158-a78c-bf8511d70176",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 09:45:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 38,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 11:00 AM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 28.8154979266753,
+        "AssetBaseType": "File",
+        "AssetID": "a670e0aa-8323-4233-8951-533e4ed0ec57",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 10:00:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 39,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 11:15 AM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 30.6466889056296,
+        "AssetBaseType": "File",
+        "AssetID": "7d5e8fda-8503-4fd1-b5bb-fadf9a8513f1",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 10:15:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 40,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 11:30 AM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 32.3191670685919,
+        "AssetBaseType": "File",
+        "AssetID": "6d135896-740f-4feb-b770-0ba9da224876",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 10:30:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 41,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 11:45 AM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 33.8182438476707,
+        "AssetBaseType": "File",
+        "AssetID": "18a9856d-fa73-4c9c-bc07-805dd8f2fb81",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 10:45:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 42,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 12:00 PM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 35.1292666037627,
+        "AssetBaseType": "File",
+        "AssetID": "572dee0f-aeed-4a08-abee-87df31c18646",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 11:00:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 43,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 12:15 PM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 36.2381103814684,
+        "AssetBaseType": "File",
+        "AssetID": "4f2f3ac4-5dca-47a4-a6b6-0162580cdf56",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 11:15:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 44,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 12:30 PM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 37.1317575372915,
+        "AssetBaseType": "File",
+        "AssetID": "55ae5515-c814-453e-a87c-85f50737217c",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 11:30:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 45,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 12:45 PM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 37.7989214368437,
+        "AssetBaseType": "File",
+        "AssetID": "45d1d7ee-4b77-497f-a593-2ced4f5f86b7",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 11:45:00 AM"
+      }
+    },
+    {
+      "ItemNumber": 46,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 1:00 PM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 38.2306754056497,
+        "AssetBaseType": "File",
+        "AssetID": "e982a97a-bfed-43b7-b95c-24c836c91def",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 12:00:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 47,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 1:15 PM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 38.4210001791837,
+        "AssetBaseType": "File",
+        "AssetID": "c95f1f0c-8006-4788-964b-6a897e4de649",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 12:15:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 48,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 1:30 PM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 38.3671773282652,
+        "AssetBaseType": "File",
+        "AssetID": "6599104f-ccd2-4aba-9599-55e4656769f1",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 12:30:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 49,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 1:45 PM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 38.0699774769913,
+        "AssetBaseType": "File",
+        "AssetID": "5196189f-9f63-4f4b-a52e-d44a19977266",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 12:45:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 50,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 2:00 PM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 37.5336051406802,
+        "AssetBaseType": "File",
+        "AssetID": "216bd2db-6432-45e8-9620-677f3610d8dc",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 01:00:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 51,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 2:15 PM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 36.7654164404294,
+        "AssetBaseType": "File",
+        "AssetID": "e7bf6258-2309-4e01-994d-f13499c80268",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 01:15:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 52,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 2:30 PM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 35.7754482246287,
+        "AssetBaseType": "File",
+        "AssetID": "75321972-2092-44f3-b35f-0617b9c41760",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 01:30:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 53,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 2:45 PM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 34.575823530215,
+        "AssetBaseType": "File",
+        "AssetID": "3cb9c598-8c59-4df3-b34b-813192fa31a4",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 01:45:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 54,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 3:00 PM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 33.1801218413464,
+        "AssetBaseType": "File",
+        "AssetID": "06d04f1c-586e-4f09-8237-e67cd04ac8d5",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 02:00:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 55,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 3:15 PM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 31.6027641308247,
+        "AssetBaseType": "File",
+        "AssetID": "84cc7523-5f90-432d-b858-a6a95585ec5e",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 02:15:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 56,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 3:30 PM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 29.8584668252354,
+        "AssetBaseType": "File",
+        "AssetID": "6404b49d-bc9b-415f-beb5-38fa249ca371",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 02:30:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 57,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 3:45 PM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 27.9618116946924,
+        "AssetBaseType": "File",
+        "AssetID": "98af2aed-cefe-4fd5-8804-7cb15d885c8d",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 02:45:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 58,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 4:00 PM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 25.9269147108709,
+        "AssetBaseType": "File",
+        "AssetID": "a0a3d28b-7d02-40e1-88a0-b0f4b063d0fa",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 03:00:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 59,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 4:15 PM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 23.7672016852885,
+        "AssetBaseType": "File",
+        "AssetID": "bd91fff1-8213-45ec-a517-b0ba0d0c9bfb",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 03:15:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 60,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 4:30 PM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 21.4953027359892,
+        "AssetBaseType": "File",
+        "AssetID": "50fa9d8a-d2d2-4945-90fe-18224db63430",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 03:30:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 61,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 4:45 PM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 19.1230224003898,
+        "AssetBaseType": "File",
+        "AssetID": "de5755b5-90c0-4fc7-8504-a4d41a8da0db",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 03:45:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 62,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 5:00 PM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 16.6614038779906,
+        "AssetBaseType": "File",
+        "AssetID": "67ff1dc8-12ac-48ee-a656-9f8e490a4345",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 04:00:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 63,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 5:15 PM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 14.1209441362022,
+        "AssetBaseType": "File",
+        "AssetID": "3609b638-3a37-4f17-8eb5-b11a6c2da9ab",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 04:15:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 64,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 5:30 PM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 11.5120361906151,
+        "AssetBaseType": "File",
+        "AssetID": "3f3ad6ea-b230-45e1-844a-ed735a009670",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 04:30:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 65,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 5:45 PM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 8.84604127236857,
+        "AssetBaseType": "File",
+        "AssetID": "f4b8ef3c-e489-4f30-9f8f-3f694f9d00f7",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 04:45:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 66,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 6:00 PM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 6.13842630672796,
+        "AssetBaseType": "File",
+        "AssetID": "c6ba5423-c191-44f6-93bf-73b37d5d77c0",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 05:00:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 67,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 6:15 PM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 3.42035368556526,
+        "AssetBaseType": "File",
+        "AssetID": "b99d0a5e-4738-420a-ae4d-ab115fb72733",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 05:15:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 68,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 6:30 PM Eastern Daylight Time",
+        "TimeOfDay": "day",
+        "SolarElevationAngle": 0.793639355003021,
+        "AssetBaseType": "File",
+        "AssetID": "6f4667c8-baa8-4769-92d5-8d0c71dd4be5",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 05:30:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 69,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 6:45 PM Eastern Daylight Time",
+        "TimeOfDay": "dusk",
+        "SolarElevationAngle": -1.8554097394117,
+        "AssetBaseType": "File",
+        "AssetID": "76f0cc1e-9264-4f3d-a58e-fee08fea9581",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 05:45:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 70,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 7:00 PM Eastern Daylight Time",
+        "TimeOfDay": "dusk",
+        "SolarElevationAngle": -5.4656348867985,
+        "AssetBaseType": "File",
+        "AssetID": "2f5ba350-d499-4f26-938d-e357710781c0",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 06:00:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 71,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 7:15 PM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -8.4744593250811,
+        "AssetBaseType": "File",
+        "AssetID": "c32d60a1-522a-4a11-8854-439d7f983762",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 06:15:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 72,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 7:30 PM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -11.4392420377579,
+        "AssetBaseType": "File",
+        "AssetID": "83b0bbc4-fe2e-46d1-b4e7-8c6e34880427",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 06:30:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 73,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 7:45 PM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -14.4237710439281,
+        "AssetBaseType": "File",
+        "AssetID": "f1bb46e9-7991-45c8-a5fa-0eb439eb26de",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 06:45:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 74,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 8:00 PM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -17.4289602964777,
+        "AssetBaseType": "File",
+        "AssetID": "302a8407-a9b8-45ed-b7fd-5b70e2570b90",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 07:00:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 75,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 8:15 PM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -20.4507525430377,
+        "AssetBaseType": "File",
+        "AssetID": "6da7636d-23c2-4f7b-acd3-9dc6ee27805c",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 07:15:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 76,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 8:30 PM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -23.4847356426838,
+        "AssetBaseType": "File",
+        "AssetID": "a30c9d7c-8515-4a34-99f1-d186bd62ac75",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 07:30:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 77,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 8:45 PM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -26.5265529943036,
+        "AssetBaseType": "File",
+        "AssetID": "0880c0bd-152e-4754-8abf-02c6ce92875e",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 07:45:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 78,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 9:00 PM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -29.5717953530145,
+        "AssetBaseType": "File",
+        "AssetID": "50ce9000-5ce1-4b9c-9c7c-909545782742",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 08:00:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 79,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 9:15 PM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -32.6158509613735,
+        "AssetBaseType": "File",
+        "AssetID": "e1285538-3c33-4f05-8415-130ca2baa1f5",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 08:15:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 80,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 9:30 PM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -35.6537350444954,
+        "AssetBaseType": "File",
+        "AssetID": "cb59a17a-352b-4426-8805-8ad6cf3c8edf",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 08:30:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 81,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 9:45 PM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -38.6798641561087,
+        "AssetBaseType": "File",
+        "AssetID": "6b31547b-90e8-4da9-8698-d45e27691d8b",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 08:45:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 82,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 10:00 PM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -41.6878090206961,
+        "AssetBaseType": "File",
+        "AssetID": "91cdc2e7-cfc3-4ca6-b4a8-89aca05ec233",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 09:00:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 83,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 10:15 PM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -44.6699738284885,
+        "AssetBaseType": "File",
+        "AssetID": "b18c0999-43e2-43db-bdd7-175df31c4b9c",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 09:15:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 84,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 10:30 PM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -47.617142524369,
+        "AssetBaseType": "File",
+        "AssetID": "4f194766-a32f-4ace-b80c-24dec34f1315",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 09:30:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 85,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 10:45 PM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -50.51789881835,
+        "AssetBaseType": "File",
+        "AssetID": "0a708c28-a673-4f53-9bbd-8b72aa9ba969",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 09:45:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 86,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 11:00 PM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -53.3578320214911,
+        "AssetBaseType": "File",
+        "AssetID": "54f54814-29af-42da-9862-f03d9cf2bc2e",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 10:00:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 87,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 11:15 PM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -56.1184260172789,
+        "AssetBaseType": "File",
+        "AssetID": "5eaab9ae-61b2-411b-a605-51684767e2fd",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 10:15:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 88,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 11:30 PM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -58.7755927735352,
+        "AssetBaseType": "File",
+        "AssetID": "c882c53d-5e19-4b44-b239-d3b8c2632775",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 10:30:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 89,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/5/2016 11:45 PM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -61.2977537382479,
+        "AssetBaseType": "File",
+        "AssetID": "23387dd9-d6f0-43c1-8c84-099809bdd922",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 10:45:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 90,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/6/2016 12:00 AM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -63.6434849713525,
+        "AssetBaseType": "File",
+        "AssetID": "d7cf3f08-9c23-4241-b3f8-f2b1b7c6acc9",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 11:00:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 91,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/6/2016 12:15 AM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -65.7591225067868,
+        "AssetBaseType": "File",
+        "AssetID": "a634642a-5f74-4f6f-bfe4-cd5048086e04",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 11:15:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 92,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/6/2016 12:30 AM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -67.5773491997443,
+        "AssetBaseType": "File",
+        "AssetID": "e5ec240e-45f1-4e85-a883-f2b08f0ca699",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 11:30:00 PM"
+      }
+    },
+    {
+      "ItemNumber": 93,
+      "Asset": {
+        "LocationCode": "grsm",
+        "LocalTimeString": "11/6/2016 12:45 AM Eastern Daylight Time",
+        "TimeOfDay": "night",
+        "SolarElevationAngle": -69.0189550493356,
+        "AssetBaseType": "File",
+        "AssetID": "b5379a81-47e9-4853-828d-247143808e25",
+        "AssetType": "Air Web Cam File",
+        "CustomTextFields": [],
+        "CustomNumberFields": [],
+        "ImageCreateDate": {
+          "Date": "11/05/2016"
+        },
+        "ImageCreateDateTime": "11/05/2016 11:45:00 PM"
+      }
+    }
+  ],
+  "UnfilteredPageCount": 1,
+  "PageCount": 1
+}

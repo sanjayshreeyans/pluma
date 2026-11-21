@@ -1,0 +1,106 @@
+{
+ "headline": {
+  "method": "all bands",
+  "frames_total": 191,
+  "frames_passed_gates": 80,
+  "camera_vs_site_extinction": {
+   "n": 77,
+   "spearman": 0.7897943490518986
+  },
+  "alpha": 3.672664059748907,
+  "g_fixed": 0.4,
+  "train_days": "8-18 Nov 2016",
+  "test_days": "19-29 Nov 2016",
+  "train": {
+   "n": 48,
+   "spearman": 0.8128528006947461,
+   "mean_error": -1.8901623217058916,
+   "mean_abs_error": 10.092891279473736,
+   "category_match": 0.7291666666666666,
+   "within_one_category": 0.9375
+  },
+  "test": {
+   "n": 29,
+   "spearman": 0.5093596059113299,
+   "mean_error": 6.218208187722801,
+   "mean_abs_error": 10.620059928353264,
+   "category_match": 0.5517241379310345,
+   "within_one_category": 0.896551724137931
+  },
+  "reference_note": "PM2.5 reference: NPS on-site TEOM at Look Rock (NPS AirWebCams archive), not an EPA file; TEOMs can read low in heavy smoke."
+ },
+ "ridges": [
+  {
+   "name": "Happy Valley Ridge",
+   "miles": 1,
+   "km": 1.6,
+   "x": 0.535,
+   "y": 0.5769230769230769
+  },
+  {
+   "name": "Beard Cane Mtn",
+   "miles": 5,
+   "km": 8.0,
+   "x": 0.685,
+   "y": 0.46153846153846156
+  },
+  {
+   "name": "Cades Cove",
+   "miles": 8,
+   "km": 12.9,
+   "x": 0.825,
+   "y": 0.4326923076923077
+  },
+  {
+   "name": "Rich Mtn",
+   "miles": 10,
+   "km": 16.1,
+   "x": 0.495,
+   "y": 0.34615384615384615
+  },
+  {
+   "name": "Thunderhead Mtn",
+   "miles": 15,
+   "km": 24.1,
+   "x": 0.895,
+   "y": 0.2923076923076923
+  },
+  {
+   "name": "Cove Mountain",
+   "miles": 19,
+   "km": 30.6,
+   "x": 0.11,
+   "y": 0.375
+  },
+  {
+   "name": "Clingmans Dome",
+   "miles": 26,
+   "km": 41.8,
+   "x": 0.665,
+   "y": 0.3192307692307692
+  },
+  {
+   "name": "Mt LeConte",
+   "miles": 29,
+   "km": 46.7,
+   "x": 0.355,
+   "y": 0.33653846153846156
+  },
+  {
+   "name": "Mt Guyot",
+   "miles": 40,
+   "km": 64.4,
+   "x": 0.26,
+   "y": 0.3576923076923077
+  }
+ ],
+ "crop": [
+  200,
+  720
+ ],
+ "distance_encoding": {
+  "log10_min": 1.6020599913279623,
+  "log10_max": 4.845098040014257,
+  "sky": 0
+ }
+}

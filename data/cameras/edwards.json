@@ -1,0 +1,60 @@
+{
+ "camera": "ARDOT camera 9004, Hwy 16 eastbound (probably Edwards Junction)",
+ "frame": "data/frames/ardot/ardot_9004_crop.png",
+ "taken": "saved frame, time not recorded",
+ "heading": "east-southeast (~120\u00b0 for the valley view)",
+ "da3": "out/arkansas/ardot_da3.npy",
+ "land": [
+  300,
+  545,
+  30,
+  250
+ ],
+ "exclude": [
+  [
+   425,
+   530,
+   0,
+   50
+  ]
+ ],
+ "sky": [
+  330,
+  425,
+  17,
+  25
+ ],
+ "anchors": [
+  [
+   0,
+   0.1,
+   "estimated: roadside tree slope"
+  ],
+  [
+   3,
+   4.6,
+   "terrain ridge at 4.6 km, heading 120\u00b0"
+  ],
+  [
+   4,
+   6.4,
+   "terrain horizon at 6.4 km, heading 120\u00b0"
+  ]
+ ],
+ "rh": 50,
+ "rh_source": "assumed: frame time unknown, so no matching weather report",
+ "nearest_monitor": "Springdale (05-143-0005), 77 km",
+ "out": "site/arkansas/edwards",
+ "short": "Hwy 16, Edwards Junction",
+ "frames": [
+  {
+   "file": "data/frames/ardot/ardot_9004_crop.png",
+   "taken": null,
+   "rh": 50,
+   "rh_source": "Assumed: frame time not recorded"
+  }
+ ],
+ "lat": 35.8482,
+ "lon": -93.3616,
+ "elevation_ft": 2215
+}

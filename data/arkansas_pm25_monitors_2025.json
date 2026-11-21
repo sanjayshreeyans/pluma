@@ -1,0 +1,92 @@
+[
+ {
+  "id": "05-143-0005",
+  "county": "Washington",
+  "city": "Springdale",
+  "lat": 36.1797,
+  "lon": -94.116827,
+  "days": 122,
+  "km_from_tunnel": 46.3
+ },
+ {
+  "id": "05-113-0002",
+  "county": "Polk",
+  "city": "Mena",
+  "lat": 34.583699,
+  "lon": -94.226234,
+  "days": 122,
+  "km_from_tunnel": 131.7
+ },
+ {
+  "id": "05-051-0003",
+  "county": "Garland",
+  "city": "Hot Springs (Hot Springs National Park)",
+  "lat": 34.469441,
+  "lon": -93.000178,
+  "days": 122,
+  "km_from_tunnel": 180.4
+ },
+ {
+  "id": "05-119-0007",
+  "county": "Pulaski",
+  "city": "North Little Rock",
+  "lat": 34.756189,
+  "lon": -92.281296,
+  "days": 365,
+  "km_from_tunnel": 206.5
+ },
+ {
+  "id": "05-119-1008",
+  "county": "Pulaski",
+  "city": "Little Rock",
+  "lat": 34.681343,
+  "lon": -92.328697,
+  "days": 120,
+  "km_from_tunnel": 207.7
+ },
+ {
+  "id": "05-067-0001",
+  "county": "Jackson",
+  "city": "Newport",
+  "lat": 35.637283,
+  "lon": -91.188906,
+  "days": 122,
+  "km_from_tunnel": 271.3
+ },
+ {
+  "id": "05-001-0011",
+  "county": "Arkansas",
+  "city": "Stuttgart",
+  "lat": 34.518515,
+  "lon": -91.55896,
+  "days": 121,
+  "km_from_tunnel": 276.6
+ },
+ {
+  "id": "05-139-0006",
+  "county": "Union",
+  "city": "El Dorado",
+  "lat": 33.220563,
+  "lon": -92.672263,
+  "days": 122,
+  "km_from_tunnel": 315.5
+ },
+ {
+  "id": "05-003-0005",
+  "county": "Ashley",
+  "city": "Crossett",
+  "lat": 33.139471,
+  "lon": -91.939208,
+  "days": 122,
+  "km_from_tunnel": 357.7
+ },
+ {
+  "id": "05-035-0005",
+  "county": "Crittenden",
+  "city": "Marion",
+  "lat": 35.197288,
+  "lon": -90.193141,
+  "days": 122,
+  "km_from_tunnel": 367.3
+ }
+]

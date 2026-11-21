@@ -1,0 +1,163 @@
+{
+ "Depth Pro 2 (B)": {
+  "per_ridge": [
+   {
+    "ridge": "Happy Valley Ridge",
+    "chart_km": 1.6,
+    "model_km": 0.87,
+    "raw_error": -0.46,
+    "error_after_anchor_fit": null
+   },
+   {
+    "ridge": "Beard Cane Mtn",
+    "chart_km": 8.0,
+    "model_km": "inf",
+    "raw_error": null,
+    "error_after_anchor_fit": null
+   },
+   {
+    "ridge": "Cades Cove",
+    "chart_km": 12.9,
+    "model_km": "inf",
+    "raw_error": null,
+    "error_after_anchor_fit": null
+   },
+   {
+    "ridge": "Rich Mtn",
+    "chart_km": 16.1,
+    "model_km": "inf",
+    "raw_error": null,
+    "error_after_anchor_fit": null
+   },
+   {
+    "ridge": "Thunderhead Mtn",
+    "chart_km": 24.1,
+    "model_km": "inf",
+    "raw_error": null,
+    "error_after_anchor_fit": null
+   },
+   {
+    "ridge": "Cove Mountain",
+    "chart_km": 30.6,
+    "model_km": "inf",
+    "raw_error": null,
+    "error_after_anchor_fit": null
+   },
+   {
+    "ridge": "Clingmans Dome",
+    "chart_km": 41.8,
+    "model_km": "inf",
+    "raw_error": null,
+    "error_after_anchor_fit": null
+   },
+   {
+    "ridge": "Mt LeConte",
+    "chart_km": 46.7,
+    "model_km": "inf",
+    "raw_error": null,
+    "error_after_anchor_fit": null
+   },
+   {
+    "ridge": "Mt Guyot",
+    "chart_km": 64.4,
+    "model_km": "inf",
+    "raw_error": null,
+    "error_after_anchor_fit": null
+   }
+  ],
+  "spearman_vs_chart": NaN,
+  "anchor_fit_a_b": null,
+  "anchors": [
+   "Happy Valley Ridge",
+   "Rich Mtn",
+   "Clingmans Dome"
+  ],
+  "farthest_chart_km_still_ordered_after_nearer_neighbour": null,
+  "sky_top250rows": {
+   "inf_fraction": 1.0,
+   "median_finite_km": null
+  }
+ },
+ "DA3-SMALL": {
+  "per_ridge": [
+   {
+    "ridge": "Happy Valley Ridge",
+    "chart_km": 1.6,
+    "model_km": 0.0,
+    "raw_error": -1.0,
+    "error_after_anchor_fit": 0.03
+   },
+   {
+    "ridge": "Beard Cane Mtn",
+    "chart_km": 8.0,
+    "model_km": 0.0,
+    "raw_error": -1.0,
+    "error_after_anchor_fit": -0.01
+   },
+   {
+    "ridge": "Cades Cove",
+    "chart_km": 12.9,
+    "model_km": 0.0,
+    "raw_error": -1.0,
+    "error_after_anchor_fit": -0.3
+   },
+   {
+    "ridge": "Rich Mtn",
+    "chart_km": 16.1,
+    "model_km": 0.01,
+    "raw_error": -1.0,
+    "error_after_anchor_fit": 0.72
+   },
+   {
+    "ridge": "Thunderhead Mtn",
+    "chart_km": 24.1,
+    "model_km": 0.01,
+    "raw_error": -1.0,
+    "error_after_anchor_fit": -0.15
+   },
+   {
+    "ridge": "Cove Mountain",
+    "chart_km": 30.6,
+    "model_km": 0.0,
+    "raw_error": -1.0,
+    "error_after_anchor_fit": -0.65
+   },
+   {
+    "ridge": "Clingmans Dome",
+    "chart_km": 41.8,
+    "model_km": 0.01,
+    "raw_error": -1.0,
+    "error_after_anchor_fit": -0.44
+   },
+   {
+    "ridge": "Mt LeConte",
+    "chart_km": 46.7,
+    "model_km": 0.01,
+    "raw_error": -1.0,
+    "error_after_anchor_fit": -0.37
+   },
+   {
+    "ridge": "Mt Guyot",
+    "chart_km": 64.4,
+    "model_km": 0.01,
+    "raw_error": -1.0,
+    "error_after_anchor_fit": -0.69
+   }
+  ],
+  "spearman_vs_chart": 0.6833333333333333,
+  "anchor_fit_a_b": [
+   90561137.03298257,
+   2.9723360591260244
+  ],
+  "anchors": [
+   "Happy Valley Ridge",
+   "Rich Mtn",
+   "Clingmans Dome"
+  ],
+  "farthest_chart_km_still_ordered_after_nearer_neighbour": 46.670976,
+  "sky_top250rows": {
+   "inf_fraction": 0.0,
+   "median_finite_km": 0.0012387197017669678
+  }
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "camera": "ARDOT camera 9004, Hwy 16 eastbound (probably Edwards Junction)",
+ "short": "Hwy 16, Edwards Junction",
+ "lat": 35.8482,
+ "lon": -93.3616,
+ "elevation_ft": 2215,
+ "heading": "east-southeast (~120\u00b0 for the valley view)",
+ "nearest_monitor": "Springdale (05-143-0005), 77 km",
+ "bands_km": [
+  0.14170516330257482,
+  0.3004190498927691,
+  0.6651129074656953,
+  1.919720340171522,
+  10.822166033954879
+ ],
+ "anchors": [
+  {
+   "band": 0,
+   "km": 0.1,
+   "source": "estimated: roadside tree slope"
+  },
+  {
+   "band": 3,
+   "km": 4.6,
+   "source": "terrain ridge at 4.6 km, heading 120\u00b0"
+  },
+  {
+   "band": 4,
+   "km": 6.4,
+   "source": "terrain horizon at 6.4 km, heading 120\u00b0"
+  }
+ ],
+ "scale": {
+  "a": 3.857530929131678,
+  "b": 7.546008793588163
+ },
+ "alpha": 3.672664059748907,
+ "g": 0.4,
+ "distance_encoding": {
+  "log10_min": 1.4771212547196624,
+  "log10_max": 4.845098040014257,
+  "sky": 0
+ },
+ "size": [
+  545,
+  305
+ ],
+ "series": [
+  {
+   "file": "frames/ardot_9004_crop.jpg",
+   "taken": null,
+   "rh": 50,
+   "rh_source": "Assumed: frame time not recorded",
+   "horizon_spread": 0.023229374702108403,
+   "extinction_Mm": 33.80430002668724,
+   "extinction_ci": [
+    10.459818505081246,
+    149.6021195718539
+   ],
+   "fit_r2": 0.8449567596381997,
+   "status": "reading",
+   "reasons": [],
+   "pm25": 4.705692485863585,
+   "category": "Good",
+   "pm25_range": [
+    0.0,
+    60.64551915894119
+   ],
+   "visual_range_km": 115.72492247766176
+  }
+ ]
+}

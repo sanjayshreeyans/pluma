@@ -1,0 +1,73 @@
+{
+ "camera": "ARDOT Tunnel Tower Cam (4009), I-49, Boston Mountains",
+ "frame": "data/frames/ardot/ardot_4009_tunnel_tower_20261121_1353CST.png",
+ "taken": "2026-11-21T13:53-06:00",
+ "heading": "south (180\u00b0)",
+ "da3": "out/arkansas/tunnel_da3.npy",
+ "land": [
+  0,
+  800,
+  118,
+  405
+ ],
+ "exclude": [
+  [
+   320,
+   480,
+   135,
+   450
+  ],
+  [
+   640,
+   800,
+   0,
+   70
+  ]
+ ],
+ "sky": [
+  0,
+  640,
+  103,
+  113
+ ],
+ "anchors": [
+  [
+   0,
+   0.4,
+   "estimated: forest below the tower"
+  ],
+  [
+   3,
+   6.7,
+   "terrain ridge at 6.7 km, heading 180\u00b0"
+  ],
+  [
+   4,
+   13.9,
+   "terrain horizon at 13.9 km, heading 180\u00b0"
+  ]
+ ],
+ "rh": 53,
+ "rh_source": "KFYV METAR 20:00 UTC (Fayetteville, ~25 km north)",
+ "nearest_monitor": "Springdale (05-143-0005), 46 km",
+ "out": "site/arkansas/tunnel",
+ "horizon_row": 116,
+ "short": "Tunnel Tower, I-49",
+ "frames": [
+  {
+   "file": "data/frames/ardot/ardot_4009_tunnel_tower_20261121_1353CST.png",
+   "taken": "2026-11-21T13:53-06:00",
+   "rh": 53,
+   "rh_source": "Fayetteville METAR, 20:00 UTC"
+  },
+  {
+   "file": "data/frames/ardot/ardot_4009_tunnel_tower_20261121_1409CST.png",
+   "taken": "2026-11-21T14:09-06:00",
+   "rh": 53,
+   "rh_source": "Fayetteville METAR, 20:00 UTC"
+  }
+ ],
+ "lat": 35.7678,
+ "lon": -94.1893,
+ "elevation_ft": 1842
+}
